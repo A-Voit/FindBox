@@ -1,0 +1,15 @@
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.csproj.AssemblyReference.cache
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.csproj.SuggestedBindingRedirects.cache
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.Form1.resources
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.Properties.Resources.resources
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.csproj.GenerateResource.cache
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.csproj.CoreCompileInputs.cache
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\FindBox.exe.config
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\FindBox.exe
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\FindBox.pdb
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\HtmlAgilityPack.dll
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\HtmlAgilityPack.pdb
+C:\Users\alexv\Documents\Code\FindBox\FindBox\bin\Debug\HtmlAgilityPack.xml
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.csproj.CopyComplete
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.exe
+C:\Users\alexv\Documents\Code\FindBox\FindBox\obj\Debug\FindBox.pdb
